@@ -1,0 +1,17 @@
+{
+  "id": "MCU_SiliconLabs/EFR32xG23xxxxF512xM48:EFR32xG23xxxxF512xM48",
+  "name": "EFR32xG23xxxxF512xM48",
+  "library": "MCU_SiliconLabs",
+  "file": "MCU_SiliconLabs.kicad_symdir/EFR32xG23xxxxF512xM48.kicad_sym",
+  "description": "ARM M33 SubGHz Radio +20dBm 512K Flash 64KRAM Z-Wave QFN-48",
+  "datasheet": "https://www.silabs.com/documents/public/data-sheets/efr32zg23-datasheet.pdf",
+  "keywords": "Z-Wave ARM MCU CM33 Radio 900MHz SoC Silicon Labs Silabs 32-bit CPU EFR32 EFR32ZG23 EFR32M23 EFR32FG23 EFR32SG23 Sidewalk",
+  "footprint": "Package_DFN_QFN:QFN-48-1EP_6x6mm_P0.4mm_EP4.3x4.3mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-mcu-siliconlabs@master/parts/EFR32xG23xxxxF512xM48/",
+  "part_path": "parts/EFR32xG23xxxxF512xM48",
+  "symbol_file": "parts/EFR32xG23xxxxF512xM48/EFR32xG23xxxxF512xM48.kicad_sym",
+  "source_library": "MCU_SiliconLabs.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:08:03.720Z"
+}

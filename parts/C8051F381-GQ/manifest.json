@@ -1,0 +1,17 @@
+{
+  "id": "MCU_SiliconLabs/C8051F381-GQ:C8051F381-GQ",
+  "name": "C8051F381-GQ",
+  "library": "MCU_SiliconLabs",
+  "file": "MCU_SiliconLabs.kicad_symdir/C8051F381-GQ.kicad_sym",
+  "description": "Full Speed USB Flash MCU Family, 64k flash, 4352 ram, 25 IO, ADC, Temperature, VREF, LQFP-32",
+  "datasheet": "https://www.silabs.com/documents/public/data-sheets/C8051F38x.pdf",
+  "keywords": "8051 microcontroller PCA UART USB SPI I2C ADC LQFP32",
+  "footprint": "Package_QFP:LQFP-32_7x7mm_P0.8mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-mcu-siliconlabs@master/parts/C8051F381-GQ/",
+  "part_path": "parts/C8051F381-GQ",
+  "symbol_file": "parts/C8051F381-GQ/C8051F381-GQ.kicad_sym",
+  "source_library": "MCU_SiliconLabs.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:08:03.574Z"
+}

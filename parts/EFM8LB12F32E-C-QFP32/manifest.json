@@ -1,0 +1,17 @@
+{
+  "id": "MCU_SiliconLabs/EFM8LB12F32E-C-QFP32:EFM8LB12F32E-C-QFP32",
+  "name": "EFM8LB12F32E-C-QFP32",
+  "library": "MCU_SiliconLabs",
+  "file": "MCU_SiliconLabs.kicad_symdir/EFM8LB12F32E-C-QFP32.kicad_sym",
+  "description": "8051-compatible microcontroller, 72 MHz, 2.2 to 3.6V, 32K flash, 2304B RAM, -40 to +105 C, QFP-32",
+  "datasheet": "https://www.silabs.com/documents/public/data-sheets/efm8lb1-datasheet.pdf",
+  "keywords": "8051 microcontroller",
+  "footprint": "Package_QFP:LQFP-32_7x7mm_P0.8mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-mcu-siliconlabs@master/parts/EFM8LB12F32E-C-QFP32/",
+  "part_path": "parts/EFM8LB12F32E-C-QFP32",
+  "symbol_file": "parts/EFM8LB12F32E-C-QFP32/EFM8LB12F32E-C-QFP32.kicad_sym",
+  "source_library": "MCU_SiliconLabs.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:08:03.710Z"
+}

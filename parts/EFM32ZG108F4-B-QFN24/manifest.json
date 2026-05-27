@@ -1,0 +1,17 @@
+{
+  "id": "MCU_SiliconLabs/EFM32ZG108F4-B-QFN24:EFM32ZG108F4-B-QFN24",
+  "name": "EFM32ZG108F4-B-QFN24",
+  "library": "MCU_SiliconLabs",
+  "file": "MCU_SiliconLabs.kicad_symdir/EFM32ZG108F4-B-QFN24.kicad_sym",
+  "description": "32-bit ARM Cortex-M0 microcontroller, 4 kB flash, 2 kB  RAM, Silicon Labs - Zero Gecko, QFN-24",
+  "datasheet": "https://www.silabs.com/documents/public/data-sheets/efm32zg-datasheet.pdf",
+  "keywords": "MCU microcontroller silicon labs siliconlabs silabs EFM32 zero gecko",
+  "footprint": "Package_DFN_QFN:QFN-24-1EP_5x5mm_P0.65mm_EP3.6x3.6mm",
+  "extends": "EFM32HG108F32G-C-QFN24",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-mcu-siliconlabs@master/parts/EFM32ZG108F4-B-QFN24/",
+  "part_path": "parts/EFM32ZG108F4-B-QFN24",
+  "symbol_file": "parts/EFM32ZG108F4-B-QFN24/EFM32ZG108F4-B-QFN24.kicad_sym",
+  "source_library": "MCU_SiliconLabs.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:08:03.639Z"
+}

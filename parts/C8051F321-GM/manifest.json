@@ -1,0 +1,17 @@
+{
+  "id": "MCU_SiliconLabs/C8051F321-GM:C8051F321-GM",
+  "name": "C8051F321-GM",
+  "library": "MCU_SiliconLabs",
+  "file": "MCU_SiliconLabs.kicad_symdir/C8051F321-GM.kicad_sym",
+  "description": "16 KB ISP FLASH MCU Family with Full Speed USB, 2304 bytes internal RAM, 21 port I/O, 10-bit ADC, built-in temperature sensor, fully compatible with MCS-51 instruction set, QFN-28",
+  "datasheet": "https://www.silabs.com/documents/public/data-sheets/C8051F32x.pdf",
+  "keywords": "8051 microcontroller PCA UART SPI SMbus I2C VREF",
+  "footprint": "Package_DFN_QFN:QFN-28-1EP_5x5mm_P0.5mm_EP3.25x3.25mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-mcu-siliconlabs@master/parts/C8051F321-GM/",
+  "part_path": "parts/C8051F321-GM",
+  "symbol_file": "parts/C8051F321-GM/C8051F321-GM.kicad_sym",
+  "source_library": "MCU_SiliconLabs.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:08:03.565Z"
+}

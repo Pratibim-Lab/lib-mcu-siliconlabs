@@ -1,0 +1,17 @@
+{
+  "id": "MCU_SiliconLabs/C8051F383-GM:C8051F383-GM",
+  "name": "C8051F383-GM",
+  "library": "MCU_SiliconLabs",
+  "file": "MCU_SiliconLabs.kicad_symdir/C8051F383-GM.kicad_sym",
+  "description": "Full Speed USB Flash MCU Family, 32k flash, 2304 ram, 25 IO, ADC, Temperature, VREF, QFN-32",
+  "datasheet": "https://www.silabs.com/documents/public/data-sheets/C8051F38x.pdf",
+  "keywords": "8051 microcontroller PCA UART USB SPI I2C ADC QFN32",
+  "footprint": "Package_DFN_QFN:QFN-32-1EP_5x5mm_P0.5mm_EP3.3x3.3mm",
+  "extends": "C8051F381-GM",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-mcu-siliconlabs@master/parts/C8051F383-GM/",
+  "part_path": "parts/C8051F383-GM",
+  "symbol_file": "parts/C8051F383-GM/C8051F383-GM.kicad_sym",
+  "source_library": "MCU_SiliconLabs.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:08:03.580Z"
+}
